@@ -1,1 +1,0 @@
-# nwsl-circle-of-suck
