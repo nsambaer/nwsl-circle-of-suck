@@ -1,0 +1,20 @@
+[
+    {
+        "home_team" : "Kansas City Current",
+        "away_team" : "Houston Dash",
+        "home_score" : 2,
+        "away_score" : 1
+    },
+    {
+        "home_team" : "Chicago Red Stars",
+        "away_team" : "Kansas City Current",
+        "home_score" : 1,
+        "away_score" : 2
+    },
+    {
+        "home_team" : "Houston Dash",
+        "away_team" : "Chicago Red Stars",
+        "home_score" : 2,
+        "away_score" : 1
+    }
+]
